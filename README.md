@@ -111,8 +111,6 @@ The player system is built as a feature-centric coordinator:
 - ✅ **Building System**: Basic construction and prefab saving
 - ✅ **Combat System**: Weapons, tools, and enemy interaction
 - ✅ **Inventory System**: Hotbar, containers, and item management
-- 🔄 **Save/Load**: World persistence (active development)
-- 🔄 **Performance**: Optimization and GPU acceleration
 - 📋 **Story Elements**: Narrative content (planned)
 
 ### Known Issues
