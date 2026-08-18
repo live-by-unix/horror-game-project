@@ -28,6 +28,12 @@ A first-person sandbox hybrid voxel survival game built with Godot Engine 4.6, f
 - **Platform**: Windows, macOS, or Linux
 
 ### Installation
+Running Game via Exec:
+1. Go to the releases
+2. Download your according executable
+3. Run it.
+
+Running Game via Source:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/horror-survival-game-project.git
@@ -111,12 +117,9 @@ The player system is built as a feature-centric coordinator:
 - ✅ **Building System**: Basic construction and prefab saving
 - ✅ **Combat System**: Weapons, tools, and enemy interaction
 - ✅ **Inventory System**: Hotbar, containers, and item management
-- 🔄 **Save/Load**: World persistence (active development)
-- 🔄 **Performance**: Optimization and GPU acceleration
 - 📋 **Story Elements**: Narrative content (planned)
 
-### Known Issues
-See `lasting_notes.txt` for current development notes and known issues.
+
 
 ## 🛠️ Development
 
